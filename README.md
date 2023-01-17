@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hi There, Welcome to my Github profile! <img src="https://media2.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif?cid=6c09b95275ac520910c98bee86a4865a6c46cf262281c35c&rid=giphy.gif&ct=s" width="30"></h2>
 <a href="https://www.linkedin.com/in/kai-phung/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
