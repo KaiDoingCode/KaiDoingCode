@@ -77,7 +77,7 @@ You can also <a href="mailto:vantu20896@gmail.com"><b>send me an email</b></a> i
 
 <a href="https://github.com/KaiDoingCode/ReactMovie"><b>React Cinema</b></a> Full-stack project using React, Node.js, AWS, CircleCI 
 <br />
-**[Preview link](https://d3ok3bggq9wv0q.cloudfront.net/)** <a href="https://react-slack-app-3145f.web.app/" target="_blank">
+**[Preview link](https://d3ok3bggq9wv0q.cloudfront.net/)** <a href="https://d3ok3bggq9wv0q.cloudfront.net/" target="_blank">
 <br />
 <img src="https://i.ytimg.com/vi/dfRQPSmBKBI/maxresdefault.jpg" alt="React App Chat" margin="10px" height="300" /></a>
 <br />
