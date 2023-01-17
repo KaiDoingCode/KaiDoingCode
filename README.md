@@ -75,14 +75,14 @@ You can also <a href="mailto:vantu20896@gmail.com"><b>send me an email</b></a> i
 
 ## My remarkable projects
 
-<a href="https://github.com/KaiDoingCode/ReactMovie"><b>React Cinema</b></a> Full-stack project using React, Node.js, AWS, CircleCI 
+<a href="https://github.com/KaiDoingCode/ReactMovie"><b>React Cinema</b></a> Full-stack project using React, Redux, Node.js, AWS, CircleCI 
 <br />
 **[Preview link](https://d3ok3bggq9wv0q.cloudfront.net/)** <a href="https://d3ok3bggq9wv0q.cloudfront.net/" target="_blank">
 <br />
 <img src="https://i.ytimg.com/vi/dfRQPSmBKBI/maxresdefault.jpg" alt="React App Chat"  margin="10px" width="75%"/></a>
 <br />
 
-<a href="https://github.com/KaiDoingCode/react-slack-chat"><b>React Slack chat</b></a> Full-stack chat app cloning Slack using React, Firebase, CircleCI 
+<a href="https://github.com/KaiDoingCode/react-slack-chat"><b>React Slack chat</b></a> Full-stack chat app cloning Slack using React, Redux, Firebase, CircleCI 
 <br />
 **[Preview link](https://react-slack-app-3145f.web.app/)** <a href="https://react-slack-app-3145f.web.app/" target="_blank">
 <br />
