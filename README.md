@@ -13,6 +13,8 @@ I'm currently based in **[Hervanta, Tampere, Finland](https://www.google.com/map
 
 <br />
 I love learning new techs and using new tools. I also love drinking Tapioca Milk Tea (Tea in Ar - Morocco) while coding.
+
+Please scroll down for more of my projects and information.
 <br />
 <br />
 
