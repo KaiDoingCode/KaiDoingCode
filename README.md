@@ -24,7 +24,7 @@ You can also <a href="mailto:vantu20896@gmail.com"><b>send me an email</b></a> i
 <br />
 
 <a href="https://www.tuphung.net/"><b>In my portfolio</b></a> you can see more info of me about my skill set, working experience, contact info, etc.
-<a href="https://www.tuphung.net/" target="_blank"><img src="https://public-info-tuphung.s3.eu-central-1.amazonaws.com/portfolio.png" alt="Tu Phung Portfolio" margin="10px" height="300"/></a>
+<a href="https://www.tuphung.net/" target="_blank"><img src="https://public-info-tuphung.s3.eu-central-1.amazonaws.com/portfolio.png" alt="Tu Phung Portfolio" margin="10px" width="50%"/></a>
 <br />
 <br />
 <br />
@@ -79,14 +79,14 @@ You can also <a href="mailto:vantu20896@gmail.com"><b>send me an email</b></a> i
 <br />
 **[Preview link](https://d3ok3bggq9wv0q.cloudfront.net/)** <a href="https://d3ok3bggq9wv0q.cloudfront.net/" target="_blank">
 <br />
-<img src="https://i.ytimg.com/vi/dfRQPSmBKBI/maxresdefault.jpg" alt="React App Chat" margin="10px" height="300" /></a>
+<img src="https://i.ytimg.com/vi/dfRQPSmBKBI/maxresdefault.jpg" alt="React App Chat"  margin="10px" width="50%"/></a>
 <br />
 
 <a href="https://github.com/KaiDoingCode/react-slack-chat"><b>React Slack chat</b></a> Full-stack chat app cloning Slack using React, Firebase, CircleCI 
 <br />
 **[Preview link](https://react-slack-app-3145f.web.app/)** <a href="https://react-slack-app-3145f.web.app/" target="_blank">
 <br />
-<img src="https://public-info-tuphung.s3.eu-central-1.amazonaws.com/react-slack-demo.png" alt="React App Chat" margin="10px" height="300" /></a>
+<img src="https://public-info-tuphung.s3.eu-central-1.amazonaws.com/react-slack-demo.png" alt="React App Chat"  margin="10px" width="50%"/></a>
 <br />
 
 
