@@ -82,7 +82,7 @@ You can also <a href="mailto:vantu20896@gmail.com"><b>send me an email</b></a> i
 <img src="https://i.ytimg.com/vi/dfRQPSmBKBI/maxresdefault.jpg" alt="React App Chat"  margin="10px" width="75%"/></a>
 <br />
 
-<a href="https://github.com/KaiDoingCode/react-slack-chat"><b>React Slack chat</b></a> Full-stack chat app cloning Slack using React, Redux, Firebase, CircleCI 
+<a href="https://github.com/KaiDoingCode/react-slack-chat"><b>React Slack chat</b></a> Full-stack chat app cloning Slack using React, Redux, Firebase
 <br />
 Demo user for the app: 
 <br />
