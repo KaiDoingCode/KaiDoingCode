@@ -62,11 +62,7 @@ You can also <a href="mailto:vantu20896@gmail.com"><b>send me an email</b></a> i
 <a margin="10" href="https://www.ruby-lang.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>
 <a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
 <br />
-<br />
 </div>
-<br />
-<br />
-
 <div align="center">
 <br />
 
