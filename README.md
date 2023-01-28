@@ -96,6 +96,12 @@ Email: test@test.com
 <br />
 Password: Coding@1234!
 <br />
+Demo admin for the app: 
+<br />
+Email: admin@etickets.com
+<br />
+Password: Coding@1234?
+<br />
 **[Preview link]https://etickets-app-demo.azurewebsites.net/)** <a href="https://etickets-app-demo.azurewebsites.net/" target="_blank">
 <br />
 <img src="https://www.tuphung.net/static/media/dotNetapp_preview.9aa02e51.png" alt="React App Chat"  margin="10px" width="75%"/></a>
