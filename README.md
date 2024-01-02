@@ -9,8 +9,6 @@
 I'm currently a student at Tampere University Of Applied Science (TAMK). I am proficient in C#, Javascript with React and Node.js, which you can find being used in most of my projects in here.
 <br />
 
-I'm currently based in **[Hervanta, Tampere, Finland](https://www.google.com/maps/place/33720+Hervanta/@61.4491094,23.8335592,14z/data=!3m1!4b1!4m5!3m4!1s0x468edfb07cc3e67d:0x2600b5523c196291!8m2!3d61.4509352!4d23.8491004)**
-
 <br />
 I love learning new techs and using new tools. I also love drinking Tapioca Milk Tea while coding.
 
