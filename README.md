@@ -75,32 +75,12 @@ You can also <a href="mailto:vantu20896@gmail.com"><b>send me an email</b></a> i
 
 <a href="https://github.com/KaiDoingCode/react-slack-chat"><b>React Slack chat</b></a> Full-stack chat app cloning Slack using React, Redux, Firebase
 <br />
-Demo user for the app: 
-<br />
-Email: test@user.com
-<br />
-Password: password
-<br />
 **[Preview link](https://react-slack-app-3145f.web.app/)** <a href="https://react-slack-app-3145f.web.app/" target="_blank">
 <br />
 <img src="https://public-info-tuphung.s3.eu-central-1.amazonaws.com/react-slack-demo.png" alt="React App Chat"  margin="10px" width="75%"/></a>
 <br />
   
 <a href="https://github.com/KaiDoingCode/dotNETEcomApp/"><b>Movie Shop App</b></a> ASP.NET app with Blazor framework deployed to Azure
-<br />
-Demo user for the app: 
-<br />
-Email: test@test.com
-<br />
-Password: Coding@1234!
-<br />
-Demo admin for the app: 
-<br />
-Email: admin@etickets.com
-<br />
-Password: Coding@1234?
-<br />
-**[Preview link]https://etickets-app-demo.azurewebsites.net/)** <a href="https://etickets-app-demo.azurewebsites.net/" target="_blank">
 <br />
 <img src="https://www.tuphung.net/static/media/dotNetapp_preview.9aa02e51.png" alt="React App Chat"  margin="10px" width="75%"/></a>
 <br />
